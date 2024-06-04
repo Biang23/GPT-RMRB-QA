@@ -33,6 +33,9 @@ prompt_simple = """
         7. url: http://paper.people.com.cn/rmrb/html/2023-10/09/nw.D110000renmrb_20231009_1-10.htm
            Q: 杭州第十九届亚洲运动会共举行多少天？
            A: 16
+        8. url: http://paper.people.com.cn/rmrb/html/2024-04/09/nw.D110000renmrb_20240409_4-14.htm
+           Q: 2023年广西植树造林面积大约多少亩？
+           A: 417万亩
     请使用最简短的答案回答以下问题，请不要将文档的网址链接放入答案中，并去掉所有答案的标点符号。
 """
 
@@ -60,6 +63,9 @@ prompt_open = """
         7. url: http://paper.people.com.cn/rmrb/html/2023-10/09/nw.D110000renmrb_20231009_1-10.htm
            Q: 杭州第十九届亚洲运动会共举行多少天？
            A: 16
+        8. url: http://paper.people.com.cn/rmrb/html/2024-04/09/nw.D110000renmrb_20240409_4-14.htm
+           Q: 2023年广西植树造林面积大约多少亩？
+           A: 417万亩
     请使用长度不超过512的答案回答以下问题，可以使用至多5个网页文档作为参考依据并将全部使用的文档的网址链接放入答案中，使用换行符分隔答案文本与网址链接。
 """
 
