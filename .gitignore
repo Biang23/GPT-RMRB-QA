@@ -1,0 +1,7 @@
+/passwd
+data/ans.tsv
+/archive
+*.log
+/__pycache__
+/.vscode
+/final_server
