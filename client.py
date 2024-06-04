@@ -7,7 +7,7 @@ from urllib.parse import urljoin
 from run_qa import evaluate
 
 # 提交地址
-base_url = 'http://183.174.228.149:8080'
+base_url = 'http://18*.17*.22*.14*:8080'
 
 def input_idx():
     idx = input('idx: ')
